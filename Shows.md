@@ -7,7 +7,7 @@
 1. The Boys
 
 Shows I need to finish:
--[ ] Handsmaid's Tale
--[ ] Hanna
--[ ] Vice Principals
--[ ] JJK
+-[] Handsmaid's Tale
+-[] Hanna
+-[] Vice Principals
+-[] JJK
